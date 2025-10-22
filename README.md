@@ -57,8 +57,8 @@
     <section id="contact" class="container section">
       <h3>Холбоо барих</h3>
       <p>И-мэйл: <a href="mailto:info@linghangzhe.mn">info@linghangzhe.mn</a></p>
-      <p>Утас: +976 99x-xxxxx</p>
-      <p>Хаяг: Улаанбаатар хот (жагсаалт, оффис хаяг оруулна)</p>
+      <p>Утас: +976 88002277 +976 88656786 </p>
+      <p>Хаяг: БагаХангай дүүрэг, 1-р хороо, Үйлвэрлэл технологийн парк (жагсаалт, оффис хаяг оруулна)</p>
 
       <div class="contact-note">
         <p>Англи: <em>For inquiries: <a href="mailto:info@linghangzhe.mn">info@linghangzhe.mn</a></em></p>
